@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:id="@+id/rlAdvert"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:orientation="vertical"
+    >
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="自定义推送通知栏"
+        android:textColor="@color/colorPrimary"
+        />
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="透明状态栏"
+        android:textColor="@color/colorPrimary"
+        />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="FullscreenActivity"
+        android:textColor="@color/colorPrimary"
+        />
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="设置状态栏颜色"
+        android:textColor="@color/colorPrimary"
+        />
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="设置状态栏颜色_CollapsLayout_recylerview"
+        android:textColor="@color/colorPrimary"
+        />
+
+
+
+</LinearLayout>
